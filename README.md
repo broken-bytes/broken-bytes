@@ -1,4 +1,1 @@
-### Hi there 👋
-
-- Working on the first 3D cross-platform game engine written in Swift and C++
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=broken-bytes&show_icons=true&theme=radical)
