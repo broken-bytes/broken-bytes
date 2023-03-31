@@ -9,6 +9,8 @@ I am a dedicated developer fluent in dozens of languages.
 - https://nitroleague.de
 - https://github.com/broken-bytes/Needle
 
+# My Blog
+[https://medium.com/@broken-bytes](https://medium.com/@broken-bytes)
 
 # Stats
 ![broken-bytes's Stats](https://github-readme-stats.vercel.app/api?username=broken-bytes&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
