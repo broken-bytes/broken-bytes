@@ -46,6 +46,14 @@ Welcome to my profile!
     <img src="https://img.shields.io/badge/Blender-20232A?style=for-the-badge&logo=blender&logoColor=default" alt="Unity"/>
 </div>
 
+### Technologies
+<div>
+    <img src="https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=default" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Kubernetes-20232A?style=for-the-badge&logo=kubernetes&logoColor=default" alt="Kubernetes"/>
+    <img src="https://img.shields.io/badge/Postgres-20232A?style=for-the-badge&logo=postgresql&logoColor=default" alt="Postgres"/>
+    <img src="https://img.shields.io/badge/Google Cloud-20232A?style=for-the-badge&logo=googlecloud&logoColor=default" alt="Postgres"/>
+</div>
+
 ## Stats
 ![broken-bytes's Stats](https://github-readme-stats.vercel.app/api?username=broken-bytes&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![broken-bytes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=broken-bytes&theme=vue-dark&hide_border=true)
