@@ -42,7 +42,8 @@ Welcome to my profile!
     <img src="https://img.shields.io/badge/Xcode-20232A?style=for-the-badge&logo=xcode&logoColor=default" alt="Xcode"/>
     <img src="https://img.shields.io/badge/Android Studio-20232A?style=for-the-badge&logo=androidstudio&logoColor=default" alt="AndroidStudio"/>
     <img src="https://img.shields.io/badge/Unreal_Engine-20232A?style=for-the-badge&logo=unreal-engine&logoColor=default" alt="Unreal Engine"/>
-    <img src="https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+    <img src="https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=default" alt="Unity"/>
+    <img src="https://img.shields.io/badge/Blender-20232A?style=for-the-badge&logo=blender&logoColor=default" alt="Unity"/>
 </div>
 
 ## Stats
