@@ -18,6 +18,11 @@ Welcome to my profile!
 
 ## Stuff I work with
 
+### OS
+<div align>
+    <img src="https://img.shields.io/badge/Debian-20232A?style=for-the-badge&logo=debian&logoColor=default" alt="Debian" />
+</div>
+
 ### Languages
 <div align>
     <img src="https://img.shields.io/badge/Swift-20232A?style=for-the-badge&logo=swift&logoColor=default" alt="Swift" />
