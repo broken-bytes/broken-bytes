@@ -56,7 +56,7 @@ Welcome to my profile!
     <img src="https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=default" alt="Docker"/>
     <img src="https://img.shields.io/badge/Kubernetes-20232A?style=for-the-badge&logo=kubernetes&logoColor=default" alt="Kubernetes"/>
     <img src="https://img.shields.io/badge/Postgres-20232A?style=for-the-badge&logo=postgresql&logoColor=default" alt="Postgres"/>
-    <img src="https://img.shields.io/badge/Google Cloud-20232A?style=for-the-badge&logo=googlecloud&logoColor=default" alt="Postgres"/>
+    <img src="https://img.shields.io/badge/Google Cloud-20232A?style=for-the-badge&logo=googlecloud&logoColor=default" alt="Google Cloud"/>
 </div>
 
 ## Stats
