@@ -21,6 +21,16 @@ Welcome to my profile!
 ### OS
 <div align>
     <img src="https://img.shields.io/badge/Debian-20232A?style=for-the-badge&logo=debian&logoColor=default" alt="Debian" />
+    <img src="https://img.shields.io/badge/macOS-20232A?style=for-the-badge&logo=macOS&logoColor=default" alt="macOS" />
+</div>
+
+### Platforms
+<div align>
+    <img src="https://img.shields.io/badge/Windows-20232A?style=for-the-badge&logo=windows&logoColor=default" alt="Windows" />
+    <img src="https://img.shields.io/badge/macOS-20232A?style=for-the-badge&logo=macOS&logoColor=default" alt="macOS" />
+    <img src="https://img.shields.io/badge/Linux-20232A?style=for-the-badge&logo=Linux&logoColor=white" alt="Linux" />
+    <img src="https://img.shields.io/badge/iOS-20232A?style=for-the-badge&logo=ios&logoColor=default" alt="iOS" />
+    <img src="https://img.shields.io/badge/Android-20232A?style=for-the-badge&logo=Android&logoColor=default" alt="Android" />
 </div>
 
 ### Languages
