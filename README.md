@@ -37,6 +37,8 @@ Welcome to my profile!
 <div align>
     <img src="https://img.shields.io/badge/Swift-20232A?style=for-the-badge&logo=swift&logoColor=default" alt="Swift" />
     <img src="https://img.shields.io/badge/C++-20232A?style=for-the-badge&logo=cplusplus&logoColor=default" alt="C++" />
+    <img src="https://img.shields.io/badge/C%23-20232A?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />   
+    <img src="https://img.shields.io/badge/Rust-20232A?style=for-the-badge&logo=rust&logoColor=default" alt="Rust" />
     <img src="https://img.shields.io/badge/Kotlin-20232A?style=for-the-badge&logo=kotlin&logoColor=default" alt="Kotlin" />
     <img src="https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=typescript&logoColor=default" alt="Typescript" />
     <img src="https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript&logoColor=default" alt="Javascript" />
