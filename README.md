@@ -46,7 +46,7 @@ Welcome to my profile!
 
 ### Frameworks
 <div>
-    <img src="https://img.shields.io/badge/Kotlin-20232A?style=for-the-badge&logo=kotlin&logoColor=default" alt="Kotlin Multiplatform" />
+    <img src="https://img.shields.io/badge/KMP-20232A?style=for-the-badge&logo=kotlin&logoColor=default" alt="Kotlin Multiplatform" />
     <img src="https://img.shields.io/badge/SwiftUI-20232A?style=for-the-badge&logo=swift&logoColor=default" alt="SwiftUI"/>
     <img src="https://img.shields.io/badge/Compose-20232A?style=for-the-badge&logo=jetpack-compose&logoColor=default" alt="Compose"/>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=default" alt="React"/>
