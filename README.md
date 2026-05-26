@@ -56,12 +56,17 @@ Welcome to my profile!
 
 ### Tools
 <div>
-    <img src="https://img.shields.io/badge/Visual Studio-20232A?style=for-the-badge&logo=visualstudio&logoColor=default" alt="VS"/>
+    <img src="https://img.shields.io/badge/IntelliJ_IDEA-20232A?style=for-the-badge&logo=intellijidea&logoColor=default" alt="IntelliJ IDEA"/>
+    <img src="https://img.shields.io/badge/Android_Studio-20232A?style=for-the-badge&logo=androidstudio&logoColor=default" alt="Android Studio"/>
     <img src="https://img.shields.io/badge/Xcode-20232A?style=for-the-badge&logo=xcode&logoColor=default" alt="Xcode"/>
-    <img src="https://img.shields.io/badge/Android Studio-20232A?style=for-the-badge&logo=androidstudio&logoColor=default" alt="AndroidStudio"/>
-    <img src="https://img.shields.io/badge/Unreal_Engine-20232A?style=for-the-badge&logo=unreal-engine&logoColor=default" alt="Unreal Engine"/>
+    <img src="https://img.shields.io/badge/Rider-20232A?style=for-the-badge&logo=rider&logoColor=default" alt="Rider"/>
+    <img src="https://img.shields.io/badge/Visual_Studio-20232A?style=for-the-badge&logo=visualstudio&logoColor=default" alt="Visual Studio"/>
+    <img src="https://img.shields.io/badge/RustRover-20232A?style=for-the-badge&logo=rustrover&logoColor=default" alt="RustRover"/>
+    <img src="https://img.shields.io/badge/WebStorm-20232A?style=for-the-badge&logo=webstorm&logoColor=default" alt="WebStorm"/>
     <img src="https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=default" alt="Unity"/>
-    <img src="https://img.shields.io/badge/Blender-20232A?style=for-the-badge&logo=blender&logoColor=default" alt="Unity"/>
+    <img src="https://img.shields.io/badge/Unreal_Engine-20232A?style=for-the-badge&logo=unrealengine&logoColor=default" alt="Unreal Engine"/>
+    <img src="https://img.shields.io/badge/Blender-20232A?style=for-the-badge&logo=blender&logoColor=default" alt="Blender"/>
+    <img src="https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma&logoColor=default" alt="Figma"/>
 </div>
 
 ### Technologies
@@ -71,8 +76,3 @@ Welcome to my profile!
     <img src="https://img.shields.io/badge/Postgres-20232A?style=for-the-badge&logo=postgresql&logoColor=default" alt="Postgres"/>
     <img src="https://img.shields.io/badge/Google Cloud-20232A?style=for-the-badge&logo=googlecloud&logoColor=default" alt="Google Cloud"/>
 </div>
-
-## Stats
-![broken-bytes's Stats](https://github-readme-stats.vercel.app/api?username=broken-bytes&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![broken-bytes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=broken-bytes&theme=vue-dark&hide_border=true)
-![broken-bytes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=broken-bytes&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
