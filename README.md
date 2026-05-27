@@ -1,78 +1,56 @@
-<div id="header" align="center">
-  <img src="https://media.tenor.com/1yxq0RcHTFsAAAAi/magic-computer.gif" width="200"/>
+ <p align="center">
+    <img src="https://media.tenor.com/1yxq0RcHTFsAAAAi/magic-computer.gif" width="200" alt="a wizard at a computer" />
+  </p>
 
-<div id="badges">
-  <a href= "https://broken-bytes.medium.com"><img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/></a>
-  <a href = "https://discordapp.com/users/195253265628135424"><img src="https://img.shields.io/badge/discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/></a>
-</div>
+  <h1 align="center">
+    Hey, I'm Marcel
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="waving hand" />
+  </h1>
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-</div>
+  <p align="center">
+    <a href="https://kulina.dev">kulina.dev</a> ·
+    <a href="https://broken-bytes.medium.com">Medium</a> ·
+    <a href="https://discordapp.com/users/195253265628135424">Discord</a>
+  </p>
 
-<h1>
-  Hey
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+  I build programming languages and the tooling that makes them feel real: compilers,
+  IDE integration, and all the unglamorous plumbing in between. If a project involves a
+  lexer, an IR, or a plugin API, I am probably having a great time. The rest of the time
+  I write game engines, because apparently I enjoy suffering at every layer of the stack.
 
-Welcome to my profile!
+  ## Selected work
 
-## Stuff I work with
+  ### [Iona](https://github.com/broken-bytes/Iona)
+  A modern, type-safe, expressive language running on .NET. The whole frontend and codegen, written in C#.
+  
+  - **[Iona-Kotlin-IR](https://github.com/broken-bytes/Iona-Kotlin-IR):** A demo backend that
+  translates Iona IR into Kotlin IR and rides the Kotlin compiler down to a runnable JVM JAR.
+  Built as a Kotlin compiler plugin, so the JVM heavy lifting comes for free.
 
-### OS
-<div align>
-    <img src="https://img.shields.io/badge/Debian-20232A?style=for-the-badge&logo=debian&logoColor=default" alt="Debian" />
-    <img src="https://img.shields.io/badge/macOS-20232A?style=for-the-badge&logo=macOS&logoColor=default" alt="macOS" />
-</div>
+  - **[Iona-IntelliJ-Plugin](https://github.com/broken-bytes/Iona-IntelliJ-Plugin):** A demo
+  IntelliJ plugin that gives Iona first-class editor support: a JFlex lexer, a Grammar-Kit PSI
+  tree, syntax highlighting, go-to-definition, and live diagnostics straight from the compiler.
 
-### Platforms
-<div align>
-    <img src="https://img.shields.io/badge/Windows-20232A?style=for-the-badge&logo=windows&logoColor=default" alt="Windows" />
-    <img src="https://img.shields.io/badge/macOS-20232A?style=for-the-badge&logo=macOS&logoColor=default" alt="macOS" />
-    <img src="https://img.shields.io/badge/Linux-20232A?style=for-the-badge&logo=Linux&logoColor=white" alt="Linux" />
-    <img src="https://img.shields.io/badge/iOS-20232A?style=for-the-badge&logo=ios&logoColor=default" alt="iOS" />
-    <img src="https://img.shields.io/badge/Android-20232A?style=for-the-badge&logo=Android&logoColor=default" alt="Android" />
-</div>
+  > [!NOTE]
+  > Both the backend and the plugin are demos: small, focused, and built to show how Iona
+    plugs into the JVM and into IntelliJ. The language itself is where most of the work lives.
 
-### Languages
-<div align>
-    <img src="https://img.shields.io/badge/Swift-20232A?style=for-the-badge&logo=swift&logoColor=default" alt="Swift" />
-    <img src="https://img.shields.io/badge/C++-20232A?style=for-the-badge&logo=cplusplus&logoColor=default" alt="C++" />
-    <img src="https://img.shields.io/badge/C%23-20232A?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />   
-    <img src="https://img.shields.io/badge/Rust-20232A?style=for-the-badge&logo=rust&logoColor=default" alt="Rust" />
-    <img src="https://img.shields.io/badge/Kotlin-20232A?style=for-the-badge&logo=kotlin&logoColor=default" alt="Kotlin" />
-    <img src="https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=typescript&logoColor=default" alt="Typescript" />
-    <img src="https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript&logoColor=default" alt="Javascript" />
-</div>
+  ### [Kyanite](https://github.com/broken-bytes/Kyanite)
+  A Windows game engine with gameplay
+  scripting in Swift, written in C++. Yes, Swift on Windows. Yes, Swift for Games.
 
-### Frameworks
-<div>
-    <img src="https://img.shields.io/badge/KMP-20232A?style=for-the-badge&logo=kotlin&logoColor=default" alt="Kotlin Multiplatform" />
-    <img src="https://img.shields.io/badge/SwiftUI-20232A?style=for-the-badge&logo=swift&logoColor=default" alt="SwiftUI"/>
-    <img src="https://img.shields.io/badge/Compose-20232A?style=for-the-badge&logo=jetpack-compose&logoColor=default" alt="Compose"/>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=default" alt="React"/>
-    <img src="https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=next.js&logoColor=default" alt="Next"/>
-    <img src="https://img.shields.io/badge/QT-20232A?style=for-the-badge&logo=qt&logoColor=default" alt="Next"/>
-</div>
+  ### [DualSense4Windows](https://github.com/broken-bytes/DualSense4Windows)
+  DualSense controller support for Windows, in C++. 
+  
+  ### [Syringe](https://github.com/broken-bytes/Syringe)
+  A lightweight dependency injection framework for Swift.
 
-### Tools
-<div>
-    <img src="https://img.shields.io/badge/IntelliJ_IDEA-20232A?style=for-the-badge&logo=intellijidea&logoColor=default" alt="IntelliJ IDEA"/>
-    <img src="https://img.shields.io/badge/Android_Studio-20232A?style=for-the-badge&logo=androidstudio&logoColor=default" alt="Android Studio"/>
-    <img src="https://img.shields.io/badge/Xcode-20232A?style=for-the-badge&logo=xcode&logoColor=default" alt="Xcode"/>
-    <img src="https://img.shields.io/badge/Rider-20232A?style=for-the-badge&logo=rider&logoColor=default" alt="Rider"/>
-    <img src="https://img.shields.io/badge/Visual_Studio-20232A?style=for-the-badge&logo=visualstudio&logoColor=default" alt="Visual Studio"/>
-    <img src="https://img.shields.io/badge/RustRover-20232A?style=for-the-badge&logo=rustrover&logoColor=default" alt="RustRover"/>
-    <img src="https://img.shields.io/badge/WebStorm-20232A?style=for-the-badge&logo=webstorm&logoColor=default" alt="WebStorm"/>
-    <img src="https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=default" alt="Unity"/>
-    <img src="https://img.shields.io/badge/Unreal_Engine-20232A?style=for-the-badge&logo=unrealengine&logoColor=default" alt="Unreal Engine"/>
-    <img src="https://img.shields.io/badge/Blender-20232A?style=for-the-badge&logo=blender&logoColor=default" alt="Blender"/>
-    <img src="https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma&logoColor=default" alt="Figma"/>
-</div>
+  ## Tech I reach for
 
-### Technologies
-<div>
-    <img src="https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=default" alt="Docker"/>
-    <img src="https://img.shields.io/badge/Kubernetes-20232A?style=for-the-badge&logo=kubernetes&logoColor=default" alt="Kubernetes"/>
-    <img src="https://img.shields.io/badge/Postgres-20232A?style=for-the-badge&logo=postgresql&logoColor=default" alt="Postgres"/>
-    <img src="https://img.shields.io/badge/Google Cloud-20232A?style=for-the-badge&logo=googlecloud&logoColor=default" alt="Google Cloud"/>
-</div>
+  `Kotlin` · `C#` · `Swift` · `C++` · `Rust` · `TypeScript`
+
+  Lately mostly Kotlin and C#, with Kotlin Multiplatform and Compose when there is UI to build.
+
+  ---
+
+  <p align="center"><i>I build stuff. Occasionally the stuff builds back.</i></p>
